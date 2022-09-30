@@ -22,7 +22,7 @@ body, html {
 main {
     height: 100vh;
     width: 100vw;
-    position: fixed;
+    position: relative;
 }
 
 section#login {
